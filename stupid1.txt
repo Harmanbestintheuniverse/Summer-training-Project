@@ -1,1 +1,2 @@
 hello i am notepad.
+i am a notepad
